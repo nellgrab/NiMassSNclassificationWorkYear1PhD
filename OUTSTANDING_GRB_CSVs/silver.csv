@@ -1,0 +1,5 @@
+name, redshift, obs mag, filter, epoch, Av_host, Av_MW, K, source
+100206A, 0.4068, 21.7, R, 0.1315, , , , GSFC circulars
+140129B, 0.43, 18.04, V, 0.004,,,,GSFC circulars
+150728A, 0.461, 
+200219A, 0.48,

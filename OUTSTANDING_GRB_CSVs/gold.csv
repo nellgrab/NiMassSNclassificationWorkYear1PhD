@@ -1,0 +1,8 @@
+name, redshift, obs mag, filter, epoch(days), Av_host, Av_MW, K, source 
+180728A, 0.117, 16.07, V, 0.02, , , , , GSFC catalogue 
+130822A, 0.154,
+120305A, 0.225,
+211227A, 0.228,
+231117A, 0.257, 18.8, V, 0.0012, , , , , GSFC catalogue UVOT data
+150818A, 0.282, 19.36, V, 0.001, , , , , GSFC catalogue UVOT data
+060502B, 0.287, 20.29, V, 0.015 (too low need higher time associated value, , , , , GSFC catalogue UVOT data
